@@ -26,5 +26,5 @@
 * Add remote directory as a home directory of jenkins user of slave i.e /home/jenkins
 * Launch method : launch via ssh ..
 -- Host : give private ip of the slave
--- Enter private key directly : enter private key of the master.
+-- Enter private key directly : enter private key of the master(jenkins) .
 * launch the agent and now your slave should be up and running.
